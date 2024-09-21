@@ -1,8 +1,8 @@
 function Income() {
     return (
-      <h1 className="text-3xl font-bold underline">
+      <div className="text-3xl font-bold underline flex-1 mx-auto">
         income page
-      </h1>
+      </div>
     );
   }
   

@@ -1,8 +1,8 @@
 function Expenses() {
     return (
-      <h1 className="text-3xl font-bold underline">
+      <div className="text-3xl font-bold underline flex-1 mx-auto">
         Expenses page
-      </h1>
+      </div>
     );
   }
   
